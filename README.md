@@ -20,7 +20,7 @@ JavaScript
 
 🧰 Installation
 # Clone the repo
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/Vishal202-rgb/
 
 # Navigate into the project directory
 cd todo-list-app
